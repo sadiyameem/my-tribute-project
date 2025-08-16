@@ -17,7 +17,6 @@ I made this project because I am currently doing the Odin Project and they had m
 Challenges and Learning
 I learned how to structure a website by using HTML and styling it with CSS. I struggled with making my image appear, but I solved it by dragging my image in the code editor.
 
-Author
 Created by Sadiya M
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
