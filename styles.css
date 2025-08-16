@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: pink; 
+  color: black; 
+}
+
+.main-container {
+  padding: 16px;
+}
+
+header {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.popsicle {
+  margin: 20px 0;
+}
+
+.popsicle img {
+  display: block;
+  margin: 16px auto;
+  height: 160px;
+}
+
+.popsicle ul {
+  margin-left: 40px;
+}
+
+.popsicle ol {
+  margin-left: 40px;
+}
+
+.flavor-box {
+  width: 100%;
+  border: 4px solid white;
+  color: black; 
+  padding: 16px;
+}
