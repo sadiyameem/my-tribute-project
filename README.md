@@ -18,4 +18,4 @@ Challenges and Learning
 I learned how to structure a website by using HTML and styling it with CSS. I struggled with making my image appear, but I solved it by dragging my image in the code editor.
 
 Author
-Created by Sadiya Meem
+Created by Sadiya M
