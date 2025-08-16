@@ -11,5 +11,11 @@ Lists of ingredients and steps
 Nutritional information
 Built using HTML and CSS
 
+Motivation
+I made this project because I am currently doing the Odin Project and they had me make a website (using HTML) about a food of my choosing and I chose ice cream and thought since I like ice-cold summer treats making a website about popsicles sounded like a fun idea.
+
+Challenges and Learning
+I learned how to structure a website by using HTML and styling it with CSS. I struggled with making my image appear, but I solved it by dragging my image in the code editor.
+
 Author
-Created by Sadiya M
+Created by Sadiya Meem
