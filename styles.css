@@ -46,3 +46,11 @@ header {
   list-style-position: inside;
   line-height: 1.6;
 }
+
+.navbar {
+  background-color: lightyellow;
+  padding: 12px;
+  text-align: center;
+}
+
+
